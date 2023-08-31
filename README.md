@@ -1,6 +1,6 @@
-0x1D. C - Binary trees
+##0x1D. C - Binary trees
 
-Learning objectives for this project:
+#Learning objectives for this project:
 
 	-What is a binary tree
 	-What is the difference between a binary tree and a Binary Search Tree
@@ -9,7 +9,7 @@ Learning objectives for this project:
 	-What are the different traversal methods to go through a binary tree
 	-What is a complete, a full, a perfect, a balanced binary tree
 
-Tasks:
+#Tasks:
 
 	-Write a function that creates a binary tree node
 	-Write a function that inserts a node as the left-child of another node
